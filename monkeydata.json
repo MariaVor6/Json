@@ -1,0 +1,28 @@
+﻿[
+  {
+    "Name": "100 рублей",
+    "Denomination": "100",
+    "Currency": "RUB",
+    "Year": "2011",
+    "Description": "Банкнота 100 рублей.",
+    "ImageUrl": "https://raw.githubusercontent.com/MariaVor6/Image/refs/heads/main/banknote_100.jpg" // Замените на свой путь к изображению
+  },
+
+  {
+    "Name": "500 рублей",
+    "Denomination": "500",
+    "Currency": "RUB",
+    "Year": "2010",
+    "Description": "Банкнота 500 рублей.",
+    "ImageUrl": "https://raw.githubusercontent.com/MariaVor6/Image/refs/heads/main/banknote_500.jpg" // Замените на свой путь к изображению
+  },
+
+  {
+    "Name": "1000 рублей",
+    "Denomination": "1000",
+    "Currency": "RUB",
+    "Year": "2014",
+    "Description": "Банкнота 1000 рублей.",
+    "ImageUrl": "https://raw.githubusercontent.com/MariaVor6/Image/refs/heads/main/banknote_1000.jpg" // Замените на свой путь к изображению
+  }
+]
